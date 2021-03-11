@@ -2,7 +2,7 @@
 
 Micah Roberton \
 GEOG 482 \
-Final Essay \
+Final Essay 
 
 NASA’s “Where is Curiosity” interactive map is based on Mars near the Gale Crater which their Rover named ‘Curiosity’ journeyed through since landing on Mars in 2012. Along this robot’s journey it photographed and recorded its path so that the Curiosity NASA team could then build this map. The team made this map with the intention of providing a software experience of the Rover’s daily path. This map is another step towards mapping a new frontier, with Earth’s land having been mapped out (except for the ocean bed), Mars is the new platform to discover, hence such names as Curiosity. The map has many functions. It allows the user to look at the Rover’s entire distance traveled, examine specific geography landmarks, check every day’s (sol) ending point, examine 17 camera feeds attached to the Rover providing a Google Street experience on another planet. This means the Rover is recording data such as is its own coordinates and photo feeds. This data was then recorded at the end of each sol along the 3000+ day voyage. The Rover is also outfitted with many scientific measurement instruments which allows for “Geoscience data from orbit or previous missions [which] can be overlayed for cross instrument/mission analysis” (Calef et al., 2016). This data is recovered from software used by the mission team.
 
